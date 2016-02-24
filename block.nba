@@ -1,0 +1,9 @@
+<#- Enable/Disable saving air blocks -#>
+Air blocks: true;
+
+<#- Enable/Disable block data -#>
+Data block: true;
+
+<#- Block saving -- Stardard: [block_name(lower case), block_data, x, y, z] -#>
+<#- Example create a 2x2 grass blocks -#>
+Build: [grass, 0, 512, 64, 512], [grass, 0, 513, 64, 512], [grass, 0, 513, 64, 513], [grass, 0, 514, 64, 514];

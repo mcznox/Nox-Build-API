@@ -1,3 +1,5 @@
+<#- Annotation struture -#>
+
 <#- Enable/Disable saving air blocks -#>
 Air block: true;
 
